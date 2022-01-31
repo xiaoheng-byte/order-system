@@ -1,0 +1,8 @@
+Nori Price:1
+Egg Price:1
+Bamboo shoots Price:1
+Chashu Price:2
+Nori Avaliable:YES
+Egg Avaliable:YES
+Bamboo shoots Avaliable:YES
+Chashu Avaliable:YES

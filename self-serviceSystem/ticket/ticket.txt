@@ -1,0 +1,433 @@
+TICKET
+2020-05-23
+Soup:Shoyu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:2
+Extra Nori:YES
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-23
+Soup:Shio
+Noodles:Medium
+Spring onion:No Please!
+Nori:NO
+Chashu:YES
+Boiled egg:YES
+Spiciness:5
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:YES
+Dining Options:Eat in
+
+2020-05-24
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-24
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-24
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-25
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-26
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:YES
+Bamboo shoots:YES
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-26
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:NO
+Boiled egg:YES
+Spiciness:4
+Extra Nori:NO
+Extra boiled egg:YES
+Bamboo shoots:YES
+Extra Chashu:YES
+Dining Options:Eat in
+
+2020-05-27
+Soup:Shio
+Noodles:Medium
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:4
+Extra Nori:YES
+Extra boiled egg:YES
+Bamboo shoots:YES
+Extra Chashu:NO
+Dining Options:Take away
+
+Soup:Shoyu
+Noodles:Soft
+Spring onion:Just a Little!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:3
+Extra Nori:NO
+Extra boiled egg:YES
+Bamboo shoots:YES
+Extra Chashu:YES
+Dining Options:Eat in
+
+2020-05-27
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:3
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Shoyu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:3
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:YES
+Dining Options:Eat in
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:Just a Little!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:1
+Extra Nori:YES
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:3
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:3
+Extra Nori:NO
+Extra boiled egg:YES
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Shio
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:YES
+Dining Options:Eat in
+
+2020-05-28
+Soup:Shoyu
+Noodles:Firm
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:5
+Extra Nori:YES
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Eat in
+
+2020-05-28
+Soup:Shoyu
+Noodles:Medium
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:5
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Shio
+Noodles:Firm
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:5
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Shoyu
+Noodles:Medium
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:5
+Extra Nori:YES
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:YES
+Dining Options:Take away
+
+2020-05-28
+Soup:Shoyu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:3
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:YES
+Dining Options:Eat in
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:Just a Little!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-28
+Soup:Tonkotsu
+Noodles:Medium
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:YES
+Extra Chashu:NO
+Dining Options:Take away
+
+2020-05-29
+Soup:Tonkotsu
+Noodles:Soft
+Spring onion:No Please!
+Nori:YES
+Chashu:YES
+Boiled egg:YES
+Spiciness:0
+Extra Nori:NO
+Extra boiled egg:NO
+Bamboo shoots:NO
+Extra Chashu:NO
+Dining Options:Take away
